@@ -1,0 +1,10 @@
+{ "cities": [{
+  "name": "Portland",
+  "attractions": "A bridge",
+  "country": "USA"
+},{
+  "name": "San Francisco",
+  "attractions": "Golden Gate Bridge",
+  "country": "USA"
+  }]
+}
